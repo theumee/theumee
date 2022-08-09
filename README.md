@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @theumee
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on React
+- 👋 Hi, I’m Umer
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently working as a SE at Coffeebeans Consulting.
 - 📫 How to reach me linkedin.com/in/thum3e
 
 <!---
